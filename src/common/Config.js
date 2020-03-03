@@ -1,0 +1,1 @@
+export const MAP_BOX_KEY = "put your mapbox api key here";
