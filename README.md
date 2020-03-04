@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+NOTE: ADD YOUR "MAPBOX API KEY" IN CONFIG FILE INSIDE COMMON FOLDER.
+
 ## Available Scripts
 
 In the project directory, you can run:
