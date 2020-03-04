@@ -28,7 +28,7 @@ export default function App() {
             paint={PAINT_MAP_POLYGON}
           />
         </Source>
-        {
+        {MAP_BOX_KEY &&
           markerData.map((data) => {
             return(
               <Marker
@@ -38,11 +38,9 @@ export default function App() {
               >
                 <PieSvg
                   data={pieData}
-                  width={60}
-                  height={60}
                   innerRadius={15}
                   outerRadius={20}
-                ></PieSvg>
+                />
               </Marker>
             )
           })

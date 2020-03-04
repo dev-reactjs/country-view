@@ -4,8 +4,8 @@ export const pieData = [
 
 // Melbourne and Sydney lat long saved to mark circle on it
 export const markerData = [
-     { latitude: -37.840935, longitude: 144.946457, id: "mel" },
-     { latitude: -33.865143, longitude: 151.209900, id: "sed" }
+     { latitude: -37.400935, longitude: 144.346457, id: "mel" },
+     { latitude: -33.665143, longitude: 150.009900, id: "sed" }
 ]
 
 // Australia lat long used as default
