@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 NOTE: ADD YOUR "MAPBOX API KEY" IN CONFIG FILE INSIDE COMMON FOLDER.
 
+![](app/src/common/assets/map.png)
+## Description
+
+This is an react application POC in which we are using react-map-gl package.
+react-map-gl is generally used for map view and it's comes with lots of customizable fetures 
+we also use d3 package to make the circle to ping point the location.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
