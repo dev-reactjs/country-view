@@ -7,12 +7,11 @@ NOTE: ADD YOUR "MAPBOX API KEY" IN CONFIG FILE INSIDE COMMON FOLDER.
 
 ![ScreenShot](https://raw.github.com/dev-reactjs/country-view/master/src/common/assets/demo.png)
 
+![ScreenShot](https://raw.github.com/dev-reactjs/country-view/master/src/common/assets/map.png)
+
 ## Description
 
-This is an react application POC in which we are using react-map-gl package.
-react-map-gl is generally used for map view and it's comes with lots of customizable fetures 
-we also use d3 package to make the circle to pin point the location.
-
+This is a react application POC in which we are using react-map-gl package to build the world map. React-map-gl is great for building map view and it comes with lots of customizable features. We also use d3 package in this repo to make the circle that can pin point a particular location.
 
 ## Available Scripts
 
